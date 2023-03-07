@@ -1,4 +1,4 @@
-# image_editor
+# image_crop
 
 A new Flutter project.
 
